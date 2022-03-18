@@ -5,7 +5,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -15,20 +14,14 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ## Overview
 
-### The challenge
-
-Users should be able to:
-
-- See hover states for interactive elements
-
 ### Screenshot
 
 ![](./Screenshot.png)
 
 ### Links
 
-- Solution URL: ()
-- Live Site URL: ()
+- Solution URL: (https://www.frontendmentor.io/solutions/solution-for-qr-code-component-LaWnORR7I)
+- Live Site URL: (https://matteoratti-ui-components.github.io/qr-code-component/)
 
 ## My process
 
