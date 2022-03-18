@@ -38,7 +38,8 @@ p {
   width: 250px;
   background-color: white;
   border-radius: 16px;
-  padding: 14px; }
+  padding: 14px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; }
   @media (min-width: 375px) and (max-width: 667px) {
     .card {
       width: 275px; } }
